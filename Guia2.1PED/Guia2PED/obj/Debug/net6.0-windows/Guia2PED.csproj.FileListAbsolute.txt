@@ -1,0 +1,17 @@
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\bin\Debug\net6.0-windows\Guia2PED.exe
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\bin\Debug\net6.0-windows\Guia2PED.deps.json
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\bin\Debug\net6.0-windows\Guia2PED.runtimeconfig.json
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\bin\Debug\net6.0-windows\Guia2PED.dll
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\bin\Debug\net6.0-windows\ref\Guia2PED.dll
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\bin\Debug\net6.0-windows\Guia2PED.pdb
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\obj\Debug\net6.0-windows\Guia2PED.csproj.AssemblyReference.cache
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\obj\Debug\net6.0-windows\Guia2PED.Form1.resources
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\obj\Debug\net6.0-windows\Guia2PED.csproj.GenerateResource.cache
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\obj\Debug\net6.0-windows\Guia2PED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\obj\Debug\net6.0-windows\Guia2PED.AssemblyInfoInputs.cache
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\obj\Debug\net6.0-windows\Guia2PED.AssemblyInfo.cs
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\obj\Debug\net6.0-windows\Guia2PED.csproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\obj\Debug\net6.0-windows\Guia2PED.dll
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\obj\Debug\net6.0-windows\ref\Guia2PED.dll
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\obj\Debug\net6.0-windows\Guia2PED.pdb
+C:\Users\carlos\source\repos\Guia2PED\Guia2PED\obj\Debug\net6.0-windows\Guia2PED.genruntimeconfig.cache
