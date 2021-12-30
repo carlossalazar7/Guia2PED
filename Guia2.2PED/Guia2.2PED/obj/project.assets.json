@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlos\\source\\repos\\Guia2.2PED\\Guia2.2PED\\Guia2.2PED.csproj",
+      "projectUniqueName": "C:\\Users\\carlos\\source\\repos\\Guia2PED\\Guia2.2PED\\Guia2.2PED\\Guia2.2PED.csproj",
       "projectName": "Guia2.2PED",
-      "projectPath": "C:\\Users\\carlos\\source\\repos\\Guia2.2PED\\Guia2.2PED\\Guia2.2PED.csproj",
+      "projectPath": "C:\\Users\\carlos\\source\\repos\\Guia2PED\\Guia2.2PED\\Guia2.2PED\\Guia2.2PED.csproj",
       "packagesPath": "C:\\Users\\carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlos\\source\\repos\\Guia2.2PED\\Guia2.2PED\\obj\\",
+      "outputPath": "C:\\Users\\carlos\\source\\repos\\Guia2PED\\Guia2.2PED\\Guia2.2PED\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",

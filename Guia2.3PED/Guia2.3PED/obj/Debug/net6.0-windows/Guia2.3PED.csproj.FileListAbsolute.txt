@@ -1,0 +1,17 @@
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\bin\Debug\net6.0-windows\leon.jpg
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\bin\Debug\net6.0-windows\Guia2.3PED.exe
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\bin\Debug\net6.0-windows\Guia2.3PED.deps.json
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\bin\Debug\net6.0-windows\Guia2.3PED.runtimeconfig.json
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\bin\Debug\net6.0-windows\Guia2.3PED.dll
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\bin\Debug\net6.0-windows\ref\Guia2.3PED.dll
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\bin\Debug\net6.0-windows\Guia2.3PED.pdb
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\obj\Debug\net6.0-windows\Guia2._3PED.Form1.resources
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\obj\Debug\net6.0-windows\Guia2.3PED.csproj.GenerateResource.cache
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\obj\Debug\net6.0-windows\Guia2.3PED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\obj\Debug\net6.0-windows\Guia2.3PED.AssemblyInfoInputs.cache
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\obj\Debug\net6.0-windows\Guia2.3PED.AssemblyInfo.cs
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\obj\Debug\net6.0-windows\Guia2.3PED.csproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\obj\Debug\net6.0-windows\Guia2.3PED.dll
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\obj\Debug\net6.0-windows\ref\Guia2.3PED.dll
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\obj\Debug\net6.0-windows\Guia2.3PED.pdb
+C:\Users\carlos\source\repos\Guia2PED\Guia2.3PED\Guia2.3PED\obj\Debug\net6.0-windows\Guia2.3PED.genruntimeconfig.cache
