@@ -12,7 +12,10 @@ namespace Guia2PED
         {
             Graphics g = panel1.CreateGraphics(); //establece zona para dibujo
             Pen lapiz = new Pen(Color.Blue);      //declaro color de pen a utilizar
+
+            //instancia del objeto random
             Random random = new Random();
+            //generamos rgb aleatorio con random en los 3 paramtros
             Color randomcolor = Color.FromArgb(random.Next(255), random.Next(255), random.Next(255));
 
             if (listBox1.SelectedIndex == 0)
